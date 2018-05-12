@@ -1,0 +1,33 @@
+_repo: Young-Tom-BowlingThe-Boys-of-the-British-Navy_21089
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Greene, John B.
+    gutenberg_agent_id: '9736'
+    url: http://www.gutenberg.org/2009/agents/9736
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutcheson, John C. (John Conroy)
+    alias: Hutcheson, John Conroy
+    gutenberg_agent_id: '9724'
+    url: http://www.gutenberg.org/2009/agents/9724
+description: ''
+gutenberg_issued: '2007-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Great Britain. Royal Navy -- Juvenile fiction'
+title: 'Young Tom Bowling
+
+  The Boys of the British Navy'
+url: http://www.gutenberg.org/ebooks/21089
